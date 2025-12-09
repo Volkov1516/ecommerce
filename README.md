@@ -14,7 +14,7 @@ A clone of the Comfy online store. The main goal of the project is to practice f
 
 ## Features
 - **Frontend:** HTML, CSS, SaaS, Typescript, Next, Axios
-- **Backend:** Node, Express, Mongo, Mongoose, Next, Axios
+- **Backend:** Node, Express, Mongo, Mongoose
 - **Sequrity:** bcrypt, cors, dotenv, jsonwebtoken
 
 ## Installing
