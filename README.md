@@ -1,33 +1,24 @@
-# COMFY
+# ECOMMERCE
 
 ## Description
-This is an education application based on the Comfy online store as the reference.
+A clone of the Comfy Online Store. The main goal of the project is to practice full-stack development.
 
 ## Features
-- Complex layout and components such dropdowns, slider, carousel, modal
-- Filtering
-- Sort
+- Complex UI layout with custom components
+- Product filtering
+- Product sorting
 - Pagination
-- Registration
-- Cart
-- Comments
+- User registration and authentication 
+- Shopping cart functionality  
+- Product comments and rating
 
 ## Features
-- HTML/CSS (SaSS)
-- Typescript
-- Next
-- classnames
-- axios
-- Node/Express
-- Modgo DB
-- mongoose
-- bcryptjs
-- jsonwebtoken
-- dotenv
-- cors
+- **Frontend:** HTML, CSS, SaaS, Typescript, Next, Axios
+- **Backend:** Node, Express, Mongo, Mongoose, Next, Axios
+- **Sequrity:** bcrypt, cors, dotenv, jsonwebtoken
 
 ## Installing
-- Copy the repository
+- Clone the repository
 - Install dependencies for client and server `npm install`
 - Setup enviroment variables
 - Run the server `npm run dev`
