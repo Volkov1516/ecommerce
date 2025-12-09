@@ -1,7 +1,7 @@
 # ECOMMERCE
 
 ## Description
-A clone of the Comfy Online Store. The main goal of the project is to practice full-stack development.
+A clone of the Comfy online store. The main goal of the project is to practice full-stack development.
 
 ## Features
 - Complex UI layout with custom components
